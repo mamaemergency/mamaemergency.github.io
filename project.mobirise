@@ -202,7 +202,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-600x399-62.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cocinando-600x369-80.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
