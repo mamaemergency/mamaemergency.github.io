@@ -164,7 +164,7 @@
               "color": "#232323"
             },
             ".mbr-section-lead B": {
-              "color": "#232323"
+              "color": "#000000"
             }
           }
         },
