@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "mamaemergency",
     "theme": {
       "name": "mobirise3",
@@ -45,7 +45,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -126,7 +127,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
         },
         {
@@ -137,7 +138,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/frame2-2000x1015-33.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -153,8 +154,19 @@
             "showButtons": false
           },
           "title": "¿Necesitas ayuda?",
-          "text": "Mamá emergency es la solucion a tu problema, somos una empresa dedicada a dar soluciones a personas solteras o estudiantes que no tienen tiempo para hacer los quehaceres del hogar.<br>ofrecemos una variedad de servicios como: aseo, compra de supermercado, cosina, etc.<br>nuestro objetivo es hacer que nuestros clientes se sientan como en su mejor momento con su madre, sin preocupaciones de los queaseres domésticos.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+          "text": "<b>Mamá emergency es la solucion a tu problema, somos una empresa dedicada a dar soluciones a personas solteras o estudiantes que no tienen tiempo para hacer los quehaceres del hogar.<br>ofrecemos una variedad de servicios como: aseo, compra de supermercado, cosina, etc.<br>nuestro objetivo es hacer que nuestros clientes se sientan como en su mejor momento con su madre, sin preocupaciones de los queaseres domésticos.</b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#f97352"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".mbr-section-lead B": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -215,7 +227,7 @@
           },
           "title1": "Mamá cocina",
           "subtitle1": "Servicio de cocina",
-          "caption1": "contamos con los mejores menús de resetas caseras y , para que no sientas la ausencia de tu madre.",
+          "caption1": "contamos con los mejores menús de resetas caseras para que no sientas la ausencia de tu madre.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "media2": {
             "image": {
@@ -231,7 +243,7 @@
           },
           "title2": "Mamá planchado",
           "subtitle2": "Servicio de lavado y planchado",
-          "caption2": "tenemos pack de lavado y planchado ya sea cada 3 días o semanal según la necesidad de nuestro cliente.",
+          "caption2": "tenemos pack de lavado y planchado de ropa, según la necesidad de nuestro cliente.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "media3": {
             "image": {
@@ -247,7 +259,7 @@
           },
           "title3": "Mamá aseo",
           "subtitle3": "Servicio de aseo",
-          "caption3": "Lo mejor de vivir con los padres era que no teniamos que preocuparnos de hacer el aseo ni mucho menos nuestra pieza.",
+          "caption3": "Lo mejor es abrir la puerta de tu departamento y encontrar un hogar limpio y calido.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "media4": {
             "image": {
@@ -263,7 +275,7 @@
           },
           "title4": "Mamá abastece",
           "subtitle4": "Servicio de compras para el hogar",
-          "caption4": "Una de las mejores cosas que podia pasar viviendo con tu madre, era que cada vez que tenías hambre, no hacias mas que revicar el refri y encontrabas cosas ricas para comer..",
+          "caption4": "Una de las mejores cosas es abrir la puerta de tu refrigerador y encontrar lo que necesitas.",
           "button4": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "media5": {
             "image": {
@@ -332,7 +344,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -413,7 +426,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
         },
         {
@@ -520,7 +533,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -601,7 +615,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
         },
         {

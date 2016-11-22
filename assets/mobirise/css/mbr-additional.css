@@ -419,6 +419,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -481,6 +482,15 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-1 .mbr-section-lead {
+  color: #f97352;
+}
+#header1-1 .mbr-section-title {
+  color: #232323;
+}
+#header1-1 .mbr-section-lead B {
+  color: #232323;
+}
 #social-buttons3-c .mbr-section-title,
 #social-buttons3-c .btn-social {
   color: #fff;
@@ -490,6 +500,7 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #menu-3 .navbar-toggler {
   color: #ffffff;
@@ -563,6 +574,7 @@ h6,
 }
 #menu-8 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #menu-8 .navbar-toggler {
   color: #ffffff;
