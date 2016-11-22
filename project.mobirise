@@ -46,7 +46,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -104,7 +104,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -127,8 +127,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">Contactenos</a></li>"
         },
         {
           "_name": "header1",
@@ -138,7 +138,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/frame2-2000x1015-33.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/frame2-2000x1015-31.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -154,7 +154,7 @@
             "showButtons": false
           },
           "title": "¿Necesitas ayuda?",
-          "text": "<b>Mamá emergency es la solucion a tu problema, somos una empresa dedicada a dar soluciones a personas solteras o estudiantes que no tienen tiempo para hacer los quehaceres del hogar.<br>ofrecemos una variedad de servicios como: aseo, compra de supermercado, cosina, etc.<br>nuestro objetivo es hacer que nuestros clientes se sientan como en su mejor momento con su madre, sin preocupaciones de los queaseres domésticos.</b>",
+          "text": "<b>Mamá emergency es la solucion a tu problema, somos una empresa dedicada a dar soluciones a personas solteras, con familia, o estudiantes que no tienen tiempo para hacer los quehaceres del &nbsp;hogar.&nbsp;ofrecemos una variedad de servicios como: aseo, planchado, compra de supermercado, comida tradicional, entre otros.<br>nuestro objetivo es hacer que nuestros clientes se sientan que hay una mamá en casa, sin preocupaciones de los queaseres domésticos.</b>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_styles": {
             ".mbr-section-lead": {
@@ -345,7 +345,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -403,7 +403,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -426,8 +426,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">Contactenos</a></li>"
         },
         {
           "_name": "footer1",
@@ -534,7 +534,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -592,7 +592,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -615,8 +615,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page2.html\">Contactenos</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAMA EMERGENCY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Misión</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">Contactenos</a></li>"
         },
         {
           "_name": "footer1",
