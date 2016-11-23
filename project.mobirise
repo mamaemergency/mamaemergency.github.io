@@ -161,10 +161,10 @@
               "color": "#f97352"
             },
             ".mbr-section-title": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-section-lead B": {
-              "color": "#000000"
+              "color": "#28324e"
             }
           }
         },
