@@ -486,10 +486,11 @@ h6,
   color: #f97352;
 }
 #header1-1 .mbr-section-title {
-  color: #c0a375;
+  color: #475577;
 }
 #header1-1 .mbr-section-lead B {
-  color: #c0a375;
+  color: #475577;
+  text-align: right;
 }
 #social-buttons3-c .mbr-section-title,
 #social-buttons3-c .btn-social {
