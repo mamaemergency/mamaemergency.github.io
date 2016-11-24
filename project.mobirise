@@ -161,10 +161,10 @@
               "color": "#f97352"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#c0a375"
             },
             ".mbr-section-lead B": {
-              "color": "#232323"
+              "color": "#c0a375"
             }
           }
         },
@@ -247,7 +247,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/15-161-600x369-49.jpg",
+              "src": "@PROJECT_PATH@/assets/images/imagen1-600x355-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
